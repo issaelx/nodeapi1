@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"Alien",
+        "director":"el julano",
+        "year" :"1986",
+        "rating":"8,5"
+    },
+    {
+        "id":"2",
+        "title":"Pedro infante",
+        "director":"Director",
+        "year" :"1986",
+        "rating":"9"
+    }
+]
